@@ -2,10 +2,11 @@
 
 A modern, intuitive task management application built with Vue 3 and Vite. This application helps you organize your weekly tasks with a clean, drag-and-drop interface.
 
+🔗 **[Live Demo](https://selftask-manager.netlify.app/)**
+
 ## Features
 
 - 📅 Weekly task organization (Monday to Friday)
-- ✨ Drag and drop tasks between days
 - 🎯 Priority levels (Low, Medium, High)
 - 📊 Task status tracking (Pending, In Progress, Blocked, Completed)
 - 💾 Persistent storage using IndexedDB
